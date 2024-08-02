@@ -14,7 +14,7 @@ I am a frontend developer, currently studying at Najot Talim, my goal is to beco
 
 - 💬 Ask me about **react, next and other basics**
 
-- 📫 How to reach me **yuldoshovjavohir59@gmail.com*
+- 📫 How to reach me *yuldoshovjavohir59@gmail.com*
 
 ## ⚡ Technologies
 
